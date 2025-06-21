@@ -1,0 +1,13 @@
+# 代理列表
+
+# MyList && Other
+#DOMAIN-SUFFIX,1password.com
+
+
+# 国外域名
+#DOMAIN-SUFFIX,eu
+
+
+# 国外域名关键字
+DOMAIN-KEYWORD,ping0
+DOMAIN-KEYWORD,google
