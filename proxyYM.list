@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
 
+DOMAIN-SUFFIX,yt.be
+
 # OneDrive
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
