@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,okx
 # Bilibili 哔哩哔哩
 
 USER-AGENT,Bilibili*
+USER-AGENT,goofish*
 USER-AGENT,bili*
 USER-AGENT,bili-inter*
 DOMAIN,apiintl.biliapi.net
@@ -84,6 +85,8 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,goofish.com
+
 
 #文件LocalAreaNetwork.list
 # 本地/局域网地址
