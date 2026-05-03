@@ -2,7 +2,7 @@
 
 ip = 192.168.6.242
 direct = true
-#DOMAIN-SUFFIX,Hubstudio.cn
+DOMAIN-SUFFIX,Hubstudio.cn
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
@@ -121,7 +121,7 @@ DOMAIN-SUFFIX,uk
 DOMAIN-KEYWORD,ip111
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,ping0
-#DOMAIN-KEYWORD,Hubstudio
+DOMAIN-KEYWORD,Hubstudio
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
